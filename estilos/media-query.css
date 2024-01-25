@@ -41,13 +41,21 @@ Grandes telas: Acima de 1200px
   }
 
   #imagem {
-    float: left;
+    float: right;
     width: 50%;
     height: 100%;
   }
 
   #formulário {
-    float: right;
+    float: left;
     width: 50%;
+  }
+
+  h1 {
+    font-size: 1.9em;
+  }
+
+  p {
+    font-size: 1.1em;
   }
 }
